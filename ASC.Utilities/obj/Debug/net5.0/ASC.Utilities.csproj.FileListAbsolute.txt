@@ -1,0 +1,12 @@
+D:\New folder\ASC.Utilities\bin\Debug\net5.0\ASC.Utilities.deps.json
+D:\New folder\ASC.Utilities\bin\Debug\net5.0\ASC.Utilities.dll
+D:\New folder\ASC.Utilities\bin\Debug\net5.0\ref\ASC.Utilities.dll
+D:\New folder\ASC.Utilities\bin\Debug\net5.0\ASC.Utilities.pdb
+D:\New folder\ASC.Utilities\obj\Debug\net5.0\ASC.Utilities.csproj.AssemblyReference.cache
+D:\New folder\ASC.Utilities\obj\Debug\net5.0\ASC.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\ASC.Utilities\obj\Debug\net5.0\ASC.Utilities.AssemblyInfoInputs.cache
+D:\New folder\ASC.Utilities\obj\Debug\net5.0\ASC.Utilities.AssemblyInfo.cs
+D:\New folder\ASC.Utilities\obj\Debug\net5.0\ASC.Utilities.csproj.CoreCompileInputs.cache
+D:\New folder\ASC.Utilities\obj\Debug\net5.0\ASC.Utilities.dll
+D:\New folder\ASC.Utilities\obj\Debug\net5.0\ref\ASC.Utilities.dll
+D:\New folder\ASC.Utilities\obj\Debug\net5.0\ASC.Utilities.pdb
